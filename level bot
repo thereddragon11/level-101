@@ -1,4 +1,3 @@
-
 class user:
 def __inti__(sekf.name):
     self.names = name
